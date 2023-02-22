@@ -9,6 +9,7 @@ body {
   display: grid;
   place-items: center;
   background: url(./back.jpg);
+  background-color: #ffdd00;
   background-repeat: no-repeat;
   background-size: cover;
 }
